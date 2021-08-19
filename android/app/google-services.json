@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "774031667197",
+    "project_id": "gider-defteri",
+    "storage_bucket": "gider-defteri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774031667197:android:bb139b80efbc112471b394",
+        "android_client_info": {
+          "package_name": "com.beratmirzaloglu.gider_defteri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774031667197-8le3drt28j1i4kiet7t2een25fdbo1n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beratmirzaloglu.gider_defteri",
+            "certificate_hash": "5f5deb36ac008da87f05ecb3f097b7d5c4a8d6a2"
+          }
+        },
+        {
+          "client_id": "774031667197-f3ncs0n0f4tchhos6tlb6dtnvajp2edj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTLQvscE9sdtoSSC2b9ACmthKl59VNfNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774031667197-f3ncs0n0f4tchhos6tlb6dtnvajp2edj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
